@@ -3,13 +3,5 @@ body {
     background-image: repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(255, 255, 255, 0.5) 10px, rgba(255, 255, 255, 0.5) 20px);
   }
 
-/* Reglas de CSS para el índice */
-.index {
-  background-color: #e6e6ff;
-  color: #6b46a0;
-  padding: 10px;
-  border-radius: 5px;
-  font-weight: bold;
-}
 
-  
+
