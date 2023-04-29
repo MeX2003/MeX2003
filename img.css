@@ -1,3 +1,21 @@
-img {
-    width: 50px;
-}
+img{
+    width: 50%;
+    margin: 20px auto;
+    background-color: #449;
+    color: #fff;
+    padding: 15px;
+  }
+  
+img.izquierda {
+    float: left;
+    margin-right: 15px;
+  }
+  
+img.derecha {
+    float: right;
+    margin-left: 15px;
+  }
+  
+  div.reset {
+    clear: both;
+  }
