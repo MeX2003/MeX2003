@@ -1,0 +1,17 @@
+.index {
+    list-style: none;
+    padding: 0;
+}
+
+.index li {
+    margin-bottom: 10px;
+}
+
+.index a {
+    color: #8f46a0;
+    text-decoration: none;
+}
+
+.index a:hover {
+    color: #aa69b5;
+}
