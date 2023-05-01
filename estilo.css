@@ -52,4 +52,8 @@ nav li a:hover {
   underline;
 }
 
+img {
+  width: 75px;
+  height: 75px;
+}
 
