@@ -1,7 +1,55 @@
 body {
-    background-color: lavender;
-    background-image: repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(255, 255, 255, 0.5) 10px, rgba(255, 255, 255, 0.5) 20px);
-  }
-
+  background-color: rgb(216, 220, 221);
+  border: 2px solid gray;
+  border-radius: 16px;
+  font-family: serif;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1024px;
+  min-width: 256;
+  padding-top: 8px;
+  padding-bottom: 24px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+html {
+  background: radial-gradient(circle, rgb(233, 152, 223),
+  rgb(222, 135, 235) 50%, LightCyan 50%,
+  rgb(182, 135, 220)) ;
+  background-size: 8px 8px;
+}
+nav ul {
+list-style-type:none;
+background-color:#e7c5ff;
+border: 4px solid #111111;
+border-radius: 10px;
+font-family: serif;
+font-weight:bold;
+padding: 16px;
+}
+nav ul li {
+display:inline;
+border-right: 2px solid 
+#111111;
+padding-right: 8px;
+padding-left: 8px;
+}
+nav ul li:last-child {
+border-right:none;
+}
+nav ul li a {
+text-decoration:none;
+color:#111111
+}
+nav ul li a{
+  text-decoration:none;
+}
+nav li.seleccionado{
+  color:#606060
+}
+nav li a:hover {
+  text-decoration:
+  underline;
+}
 
 
