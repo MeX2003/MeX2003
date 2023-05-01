@@ -55,5 +55,7 @@ nav li a:hover {
 img {
   width: 55px;
   height: 55px;
+  object-fit: left;
+  object-position: left;
 }
 
