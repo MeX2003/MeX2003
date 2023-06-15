@@ -51,15 +51,7 @@ nav li a:hover {
   text-decoration:
   underline;
 }
-#banner {
-  background-color: aqua;
-  width: 200px;
-  height: 500px;
-  display: block;
-  position: absolute;
-  top: 243px;
-  right: 28px;
-}
+
 
 
 
